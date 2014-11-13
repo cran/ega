@@ -1,0 +1,17 @@
+8ab1df998bbc423fe5dde9745699e5cf *DESCRIPTION
+82bda2c7b38451a3947b72e7fa4539b9 *LICENSE
+a54f0f6d574399a897a01f341a3dbe76 *NAMESPACE
+0570de3a3c8069eeb92680a6aed84a84 *R/ega.R
+0b95f138226fa1e6894876f9ef55146e *R/plots.R
+a54507947cda12c0acaa535e2c79461b *build/vignette.rds
+d876f4d3725ade6cd757c92e15586798 *data/glucose_data.rda
+1d4c6fc8e7a8678680a3a85860b87541 *inst/doc/ega.R
+5e62e19df81c58aeb2f5b5f02064835f *inst/doc/ega.Rmd
+4f4dd6c65070f02556476ac0bb10468c *inst/doc/ega.html
+b7be082da27defe9e885e0a1b4913b2e *man/ega-package.Rd
+b48013a6655f2c74e3edbe26924475cc *man/getClarkeZones.Rd
+699018abf166f02a2eb0d7c3e479a1ee *man/getParkesZones.Rd
+29b31dbe3ee54b1fbc12ae5a0e92485c *man/glucose_data.Rd
+f4bd68b9eb924f4af923e2914a1b1791 *man/plotClarkeGrid.Rd
+55c6493a12b3948545227577ced29aea *man/plotParkesGrid.Rd
+5e62e19df81c58aeb2f5b5f02064835f *vignettes/ega.Rmd
