@@ -13,6 +13,11 @@ zones <- getClarkeZones(glucose_data$ref, glucose_data$test)
 head(zones)
 
 ## ------------------------------------------------------------------------
+zones <- getClarkeZones(glucose_data$ref/18, glucose_data$test/18, unit="mol")
+
+head(zones)
+
+## ------------------------------------------------------------------------
 zones <- factor(zones)
 
 # counts
@@ -49,4 +54,7 @@ table(zones)/length(zones)*100
 
 ## ------------------------------------------------------------------------
 plotParkesGrid(glucose_data$ref, glucose_data$test)
+
+## ------------------------------------------------------------------------
+plotParkesGrid(glucose_data$ref/18, glucose_data$test/18, unit="mol")
 
